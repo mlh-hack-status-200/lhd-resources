@@ -13,13 +13,8 @@ All the resources you'll need for the MLH Local Hack Day 2019
 
 ## Useful Links
 
-<!-- 1. [Github Collection Form](link) -->
-1. [Cool Ideas and Tech](https://gist.github.com/itaditya/b32646e1cc7493c8d71fa680a5c729c5)
-2. [Slack](https://lhd.mlh.io/slack)
-3. [Local Hack Day](https://localhackday.mlh.io/live)
-4. [Github Education Pack](https://education.github.com/pack)
-
-## Judges
-
-1. [Name](Link)
-2. [Name](Link)
+1. [Github Collection Form](https://forms.gle/rDMsM9d9Hfb6swps9)
+2. [Cool Ideas and Tech](https://gist.github.com/itaditya/b32646e1cc7493c8d71fa680a5c729c5)
+3. [Slack](https://lhd.mlh.io/slack)
+4. [Local Hack Day](https://localhackday.mlh.io/live)
+5. [Github Education Pack](https://education.github.com/pack)
