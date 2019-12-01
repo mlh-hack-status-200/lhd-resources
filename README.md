@@ -35,7 +35,7 @@ All the resources you'll need for the MLH Local Hack Day 2019
 |DS Algorithms Session         |`4:00 PM`| Session on Data Structures and Algorithms by ??|
 |Refreshments          |`4:30 PM`| Snacks |
 |Judgement Begins          |`6:00 PM`| Get your PPTs fired up on the projector |
-| Prize Announcement        |`7:30 PM`| All the best !! |
+| Prize Announcement        |`8:00 PM`| All the best !! |
 
 
 
