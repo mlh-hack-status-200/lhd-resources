@@ -29,7 +29,7 @@ All the resources you'll need for the MLH Local Hack Day 2019
 |----------------|-------------------------------|-----------------------------|
 |Check-in |`9:30 AM`            |Entry time            |
 |Hackathon Begins          |`10:00 AM`            |Let the hacking begin !!            |
-|Refreshments          |`01:00 PM`| Breakfast|
+|Refreshments          |`11:30 PM`| Breakfast|
 |Node.JS Session          |`12:30 PM`| Session by Aakash Goel on Node.JS applications|
 |Fun Event          |`3:00 PM`| Fun event |
 |DS Algorithms Session         |`4:00 PM`| Session on Data Structures and Algorithms by ??|
