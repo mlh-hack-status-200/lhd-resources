@@ -29,17 +29,25 @@ All the resources you'll need for the MLH Local Hack Day 2019
 |----------------|-------------------------------|-----------------------------|
 |Check-in |`9:30 AM`            |Entry time            |
 |Hackathon Begins          |`10:00 AM`            |Let the hacking begin !!            |
-|Refreshments          |`11:30 PM`| Breakfast|
+|Refreshments          |`01:00 PM`| Breakfast|
 |Node.JS Session          |`12:30 PM`| Session by Aakash Goel on Node.JS applications|
 |Fun Event          |`3:00 PM`| Fun event |
 |DS Algorithms Session         |`4:00 PM`| Session on Data Structures and Algorithms by ??|
 |Refreshments          |`4:30 PM`| Snacks |
 |Judgement Begins          |`6:00 PM`| Get your PPTs fired up on the projector |
-| Prize Announcement        |`8:00 PM`| All the best !! |
+| Prize Announcement        |`7:30 PM`| All the best !! |
 
 
 
 ## Social Media Event
 
 
-> Announcing Shortly. Stay Tuned.
+> The most creative post on Instagram or Twitter will win exclusive swags and prizes.
+
+Use the following hashtags 
+`#LocalHackDay`, `#dsckiet`, `#MLH`, `#googledevs`
+and don't forget to tag @[dsckiet](http://instagram.com/dsckiet/) on Instagram, @[dsckiet](http://twitter.com/dsckiet/) on Twitter to be eligible.
+
+Feel free to post your photos of events, friends, teams (literally anything). Don't forget to use the props at the reception.
+
+Some of the best photos will be selected and we have exciting prizes and goodies for the winners.
